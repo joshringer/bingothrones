@@ -1,0 +1,23 @@
+{
+  "name": "bingothrones",
+  "version": "1.0.0",
+  "description": "Bingo of Thrones: Who will die first?",
+  "main": "index.js",
+  "repository": "https://github.com/joshringer/bingothrones",
+  "author": "Joshua Ringer <joshringer@noreply.github.com>",
+  "license": "Unlicense",
+  "scripts": {
+    "test": "standard --fix",
+    "build": "webpack",
+    "watch": "webpack --progress --watch",
+    "start": "webpack-dev-server --open"
+   },
+  "devDependencies": {
+    "standard": "^10.0.2",
+    "webpack": "^3.3.0",
+    "webpack-dev-server": "^2.5.1"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
