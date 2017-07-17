@@ -1,68 +1,134 @@
 [
   {
-    "name": "Any Sand Snake", "odds": "7/4", "img": "https://vignette3.wikia.nocookie.net/gameofthrones/images/0/0f/Sand_Snakes.png"
+    "name": "Petyr Baelish", "odds": "5/1",
+    "img": "https://upload.wikimedia.org/wikipedia/en/d/d5/Aidan_Gillen_playing_Petyr_Baelish.jpg"
   },
   {
-    "name": "Yara Greyjoy", "odds": "4/1", "img": "https://vignette2.wikia.nocookie.net/gameofthrones/images/a/a8/Game_of_thrones_6x5_yara_promo.jpg"
+    "name": "Brienne of Tarth", "odds": "12/1",
+    "img": "https://upload.wikimedia.org/wikipedia/en/9/93/Brienne_of_Tarth-Gwendoline_Christie.jpg"
   },
   {
-    "name": "Ellaria Sand", "odds": "9/2", "img": "https://upload.wikimedia.org/wikipedia/en/8/85/Ellaria_Sand.jpg"
+    "name": "Gregor Clegane", "odds": "10/1",
+    "img": "https://upload.wikimedia.org/wikipedia/en/d/d8/Gregor_Clegane-The_Mountain-Hafþór_Júlíus_Björnsson.jpg"
   },
   {
-    "name": "Petyr Baelish", "odds": "5/1", "img": "https://upload.wikimedia.org/wikipedia/en/d/d5/Aidan_Gillen_playing_Petyr_Baelish.jpg"
+    "name": "Sandor Clegane", "odds": "10/1",
+    "img": "https://upload.wikimedia.org/wikipedia/en/b/b4/Sandor_Clegane-The_Hound-Rory_McCann.jpg"
   },
   {
-    "name": "Melisandre", "odds": "6/1", "img": "https://upload.wikimedia.org/wikipedia/en/8/80/Melisandre-Carice_van_Houten.jpg"
+    "name": "Tormund Giantsbane",
+    "img": "https://upload.wikimedia.org/wikipedia/en/6/6f/Tormund_Giantsbane-Kristofer_Hivju.jpg"
   },
   {
-    "name": "Theon Greyjoy", "odds": "7/1", "img": "https://upload.wikimedia.org/wikipedia/en/5/51/Theon_Greyjoy-Alfie_Allen.jpg"
+    "name": "Gilly",
+    "img": "https://upload.wikimedia.org/wikipedia/en/a/ad/Gilly-Hannah_Murray.jpg"
   },
   {
-    "name": "Euron Greyjoy", "odds": "9/1", "img": "https://vignette3.wikia.nocookie.net/gameofthrones/images/4/4d/Game-of-thrones-6x5_euron_promo..jpg"
+    "name": "Grey Worm",
+    "img": "https://vignette2.wikia.nocookie.net/gameofthrones/images/8/83/GOT_Season_7_27GreyWork_Layout.png"
   },
   {
-    "name": "Sandor Clegane", "odds": "10/1", "img": "https://upload.wikimedia.org/wikipedia/en/b/b4/Sandor_Clegane-The_Hound-Rory_McCann.jpg"
+    "name": "Euron Greyjoy", "odds": "9/1",
+    "img": "https://vignette3.wikia.nocookie.net/gameofthrones/images/4/4d/Game-of-thrones-6x5_euron_promo..jpg"
   },
   {
-    "name": "Gregor Clegane", "odds": "10/1", "img": "https://upload.wikimedia.org/wikipedia/en/d/d8/Gregor_Clegane-The_Mountain-Haf%C3%BE%C3%B3r_J%C3%BAl%C3%ADus_Bj%C3%B6rnsson.jpg"
+    "name": "Theon Greyjoy", "odds": "7/1",
+    "img": "https://upload.wikimedia.org/wikipedia/en/5/51/Theon_Greyjoy-Alfie_Allen.jpg"
   },
   {
-    "name": "Brienne of Tarth", "odds": "12/1", "img": "https://upload.wikimedia.org/wikipedia/en/9/93/Brienne_of_Tarth-Gwendoline_Christie.jpg"
+    "name": "Yara Greyjoy", "odds": "4/1",
+    "img": "https://vignette2.wikia.nocookie.net/gameofthrones/images/a/a8/Game_of_thrones_6x5_yara_promo.jpg"
   },
   {
-    "name": "Olenna Tyrell", "odds": "12/1", "img": "https://upload.wikimedia.org/wikipedia/en/d/da/Olenna_Tyrell-Diana_Rigg.jpg"
+    "name": "Cersei Lannister", "odds": "16/1",
+    "img": "https://upload.wikimedia.org/wikipedia/en/9/94/Cersei_Lannister-Lena_Headey.jpg"
   },
   {
-    "name": "Davos Seaworth", "odds": "12/1", "img": "https://upload.wikimedia.org/wikipedia/en/c/c2/Davos_Seaworth-Liam_Cunningham.jpg"
+    "name": "Jaime Lannister", "odds": "20/1",
+    "img": "https://upload.wikimedia.org/wikipedia/en/b/b4/Jaime_Lannister-Nikolaj_Coster-Waldau.jpg"
   },
   {
-    "name": "Samwell Tarly", "odds": "14/1", "img": "https://upload.wikimedia.org/wikipedia/en/4/4d/Samwell_Tarly-John_Bradley.jpg"
+    "name": "Tyrion Lannister", "odds": "100/1",
+    "img": "https://upload.wikimedia.org/wikipedia/en/5/50/Tyrion_Lannister-Peter_Dinklage.jpg"
   },
   {
-    "name": "Cersei Lannister", "odds": "16/1", "img": "https://upload.wikimedia.org/wikipedia/en/9/94/Cersei_Lannister-Lena_Headey.jpg"
+    "name": "Melisandre", "odds": "6/1",
+    "img": "https://upload.wikimedia.org/wikipedia/en/8/80/Melisandre-Carice_van_Houten.jpg"
   },
   {
-    "name": "Jorah Mormont", "odds": "16/1", "img": "https://upload.wikimedia.org/wikipedia/en/d/d5/Jorah_Mormont-Iain_Glen.jpg"
+    "name": "Missandei",
+    "img": "https://upload.wikimedia.org/wikipedia/en/5/5d/Missandei-Nathalie_Emmanuel.jpg"
   },
   {
-    "name": "Bran Stark", "odds": "20/1", "img": "https://upload.wikimedia.org/wikipedia/en/f/fa/Bran_Stark_-_Isaac_Hempstead-Wright.jpeg"
+    "name": "Jorah Mormont", "odds": "16/1",
+    "img": "https://upload.wikimedia.org/wikipedia/en/d/d5/Jorah_Mormont-Iain_Glen.jpg"
   },
   {
-    "name": "Jaime Lannister", "odds": "20/1", "img": "https://upload.wikimedia.org/wikipedia/en/b/b4/Jaime_Lannister-Nikolaj_Coster-Waldau.jpg"
+    "name": "Qyburn",
+    "img": "https://vignette2.wikia.nocookie.net/gameofthrones/images/0/00/Qyburn-S5.png"
   },
   {
-    "name": "Arya Stark", "odds": "66/1", "img": "https://upload.wikimedia.org/wikipedia/en/3/39/Arya_Stark-Maisie_Williams.jpg"
+    "name": "Meera Reed",
+    "img": "https://vignette2.wikia.nocookie.net/gameofthrones/images/f/f9/Meera_Season_7.png"
   },
   {
-    "name": "Daenerys Targaryen", "odds": "100/1", "img": "https://upload.wikimedia.org/wikipedia/en/0/0d/Daenerys_Targaryen_with_Dragon-Emilia_Clarke.jpg"
+    "name": "Ellaria Sand", "odds": "9/2",
+    "img": "https://upload.wikimedia.org/wikipedia/en/8/85/Ellaria_Sand.jpg"
   },
   {
-    "name": "Jon Snow", "odds": "100/1", "img": "https://upload.wikimedia.org/wikipedia/en/f/f0/Jon_Snow-Kit_Harington.jpg"
+    "name": "Nymeria Sand",
+    "img": "https://vignette2.wikia.nocookie.net/gameofthrones/images/1/12/Nymerias6.png"
   },
   {
-    "name": "Sansa Stark", "odds": "100/1", "img": "https://upload.wikimedia.org/wikipedia/en/7/74/SophieTurnerasSansaStark.jpg"
+    "name": "Obara Sand",
+    "img": "https://vignette1.wikia.nocookie.net/gameofthrones/images/7/7b/Obaras6.png"
   },
   {
-    "name": "Tyrion Lannister", "odds": "100/1", "img": "https://upload.wikimedia.org/wikipedia/en/5/50/Tyrion_Lannister-Peter_Dinklage.jpg"
+    "name": "Tyene Sand",
+    "img": "https://vignette3.wikia.nocookie.net/gameofthrones/images/a/a7/Tyenes6.png"
+  },
+  {
+    "name": "Davos Seaworth", "odds": "12/1",
+    "img": "https://upload.wikimedia.org/wikipedia/en/c/c2/Davos_Seaworth-Liam_Cunningham.jpg"
+  },
+  {
+    "name": "Jon Snow", "odds": "100/1",
+    "img": "https://upload.wikimedia.org/wikipedia/en/f/f0/Jon_Snow-Kit_Harington.jpg"
+  },
+  {
+    "name": "Arya Stark", "odds": "66/1",
+    "img": "https://upload.wikimedia.org/wikipedia/en/3/39/Arya_Stark-Maisie_Williams.jpg"
+  },
+  {
+    "name": "Bran Stark", "odds": "20/1",
+    "img": "https://upload.wikimedia.org/wikipedia/en/f/fa/Bran_Stark_-_Isaac_Hempstead-Wright.jpeg"
+  },
+  {
+    "name": "Sansa Stark", "odds": "100/1",
+    "img": "https://upload.wikimedia.org/wikipedia/en/7/74/SophieTurnerasSansaStark.jpg"
+  },
+  {
+    "name": "Daenerys Targaryen", "odds": "100/1",
+    "img": "https://vignette3.wikia.nocookie.net/gameofthrones/images/8/88/Daenerys_Targaryen_S7_Promo_Image.PNG"
+  },
+  {
+    "name": "Samwell Tarly", "odds": "14/1",
+    "img": "https://upload.wikimedia.org/wikipedia/en/4/4d/Samwell_Tarly-John_Bradley.jpg"
+  },
+  {
+    "name": "Eddison Tollett",
+    "img": "https://vignette1.wikia.nocookie.net/gameofthrones/images/2/25/Eddison_the_red_woman_s6.jpg"
+  },
+  {
+    "name": "Thoros of Myr",
+    "img": "https://vignette2.wikia.nocookie.net/gameofthrones/images/6/68/Thoros_promotional_season_6.jpg"
+  },
+  {
+    "name": "Olenna Tyrell", "odds": "12/1",
+    "img": "https://upload.wikimedia.org/wikipedia/en/d/da/Olenna_Tyrell-Diana_Rigg.jpg"
+  },
+  {
+    "name": "Varys",
+    "img": "https://upload.wikimedia.org/wikipedia/en/0/01/Varys-Conleth_Hill.jpg"
   }
 ]
