@@ -7,13 +7,13 @@
   "author": "Joshua Ringer <joshringer@noreply.github.com>",
   "license": "Unlicense",
   "scripts": {
-    "test": "standard --fix src/ webpack.config.js",
+    "test": "standard --fix \"src/**/*.js\" webpack.config.js",
     "build": "webpack -p",
     "watch": "webpack --progress --watch",
     "start": "webpack-dev-server --open"
    },
   "devDependencies": {
-    "standard": "^10.0.2",
+    "standard": "*",
     "webpack": "^3.3.0",
     "webpack-dev-server": "^2.5.1"
   },
