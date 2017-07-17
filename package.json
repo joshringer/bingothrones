@@ -7,8 +7,8 @@
   "author": "Joshua Ringer <joshringer@noreply.github.com>",
   "license": "Unlicense",
   "scripts": {
-    "test": "standard --fix",
-    "build": "webpack",
+    "test": "standard --fix src/ webpack.config.js",
+    "build": "webpack -p",
     "watch": "webpack --progress --watch",
     "start": "webpack-dev-server --open"
    },

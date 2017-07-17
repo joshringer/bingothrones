@@ -9,5 +9,5 @@ $(function () {
       $('<br>').prependTo(cell)
       $('<img>').attr('src', character.img).prependTo(cell)
     })
-  });
+  })
 })
