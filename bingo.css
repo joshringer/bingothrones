@@ -7,11 +7,12 @@
 }
 
 h1,h2 {
+  margin: 2rem auto;
   text-align: center;
 }
 
 table.bingocard {
-  margin: auto;
+  margin: 2rem auto;
   border-collapse: collapse;
 }
 table.bingocard td {
@@ -25,4 +26,9 @@ table.bingocard td {
 }
 table.bingocard td img {
   height: 3cm;
+}
+
+p {
+  max-width: 40rem;
+  margin: 2rem auto;
 }
