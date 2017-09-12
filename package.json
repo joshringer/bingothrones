@@ -2,7 +2,7 @@
   "name": "bingothrones",
   "version": "1.0.0",
   "description": "Bingo of Thrones: Who will die first?",
-  "main": "index.js",
+  "main": "bingo.js",
   "repository": "https://github.com/joshringer/bingothrones",
   "author": "Joshua Ringer <joshringer@noreply.github.com>",
   "license": "Unlicense",
